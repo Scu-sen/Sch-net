@@ -1,7 +1,19 @@
 
 
+This repo contains the source code for automatic detection
+
+## Quick setup and start 
+
+#### Software
+
+* Linux
+* Nvidia drivers, CUDA >= 10.0, cuDNN >= 7
 
 
+#### Hardware
+
+* 32GB of RAM
+* 2080ti or another GPU with fp16 support and at least 12GB memory 
 
 
 
