@@ -20,7 +20,7 @@ Download and extract [dataset](https://figshare.com/articles/dataset/New_draft_i
 Generate csv
 
     ```
-    path , label
+      filename,label
     
     ./data/1,1
     ./data/2,0
