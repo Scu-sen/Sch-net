@@ -19,7 +19,8 @@ This repo contains the source code for automatic detection
 Download and extract [dataset](https://figshare.com/articles/dataset/New_draft_item/2360626) 
 Generate csv
     ```
-    path,label
+    path, label
+    
     ./data/1,1
     ```
 
