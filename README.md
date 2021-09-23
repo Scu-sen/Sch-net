@@ -19,13 +19,12 @@ This repo contains the source code for automatic detection
 Download and extract [dataset](https://figshare.com/articles/dataset/New_draft_item/2360626) 
 Generate csv
 
-    ```
+```
     filename,label
     
     ./data/1,1
-    ./data/2,0
-    
-    ```
+    ./data/2,0 
+```
  ### Run
  python train_main.py
 
