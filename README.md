@@ -26,6 +26,8 @@ Generate csv
     ./data/2,0
     
     ```
+ ### Run
+ python train_main.py
 
 ## Reference
 If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://doi.org/10.1186/s12938-021-00915-2):
